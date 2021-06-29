@@ -1,5 +1,5 @@
 
-print('\033[1;36;40m wwwww    wwww    wwwww  DDDDDDDDDD  OOOOOOOOOO\           HHH      HHH        A        KK   KK   CCCCCCCCCCCCCCC  IIIIIIIIIII   NNNN     NN  GGGGGGGGGGGGGG')
+print('\033[1;36m wwwww    wwww    wwwww  DDDDDDDDDD  OOOOOOOOOO\           HHH      HHH        A        KK   KK   CCCCCCCCCCCCCCC  IIIIIIIIIII   NNNN     NN  GGGGGGGGGGGGGG')
 print('  wwwww  wwwwww  wwwww   DDD         OOO      OO           HHH      HHH       AAA       KK  KK    CCCC                IIIII      NN NN    NN  GGGGGGGGGGGGGGGGG')
 print('   wwwwwwww  wwwwwwww    DDD         OO       OO           HHH      HHH      AA AA      KK KK     CCC                  III       NN  NN   NN  GGG              ')
 print('    wwwwww    wwwwww     DDDDDDDDDD  OOOOOOOOOO            HHHHHHHHHHHH     AA   AA     KKKK      CC                   III       NN   NN  NN  GGG     GGGGGGGG\ ')
@@ -7,8 +7,8 @@ print('     wwww      wwww      DDD         OO       OO           HHH      HHH  
 print('      ww        ww       DDD         OOO      OO           HHH      HHH   AA       AA   KK  KK    CCCC                IIIII      NN     NNNN  GGGGGGGGGGGGGGGGG')
 print('       w        w        DDDDDDDDDD  OOOOOOOOOO/           HHH      HHH  AA         AA  KK   KK   CCCCCCCCCCCCCCC  IIIIIIIIIII   NN      NNN  GGGGGGGGGGGGGGGGG\n')
 
-print('\033[1;32;40m                                                     WEBSITE HACKING                                                                                                                                                                                        \033[0m')
-print('\033[1;36;40m                                                         BY THEJ                                                                                                                                                                                          \033[0m\n')
+print('\033[1;32m                                                     WEBSITE HACKING                                                                                                                                                                                        \033[0m')
+print('\033[1;36m                                                         BY THEJ                                                                                                                                                                                          \033[0m\n')
 print('\033[1;32m                                             PLEASE INSERT CORRECT INFORMATIONS          \033[0m\n')
 print('\033[1;36m')
 name = input('Type your name hear: \n')
